@@ -1,0 +1,1797 @@
+{
+    "course_details": [
+        {
+            "id": 1,
+            "title": "UI/UX design pattern for successful software applications",
+            "bannerContent": "If you are planing to set you career as a UI/UX design , then you are at the right place. Visible Campus is considered to be one of the Best UI/UX design Training institute in Bangalore India.",
+            "discription": [
+                "User Interface (UI) design focuses on the look and feel of the website, including layout, colors, typography, and visual elements..",
+                "User Experience (UX) design concentrates on creating intuitive and seamless interactions for users, ensuring ease of navigation and task completion.The content should be structured and presented in a way that enhances user engagement and understanding, aligning with the overall design goals and user needs."
+            ],
+            "requirements": "Minimum criteria for UI/UX design Program",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/UiUxpng.png"
+            ],
+            "banner": "assets/images/courses/UiUXdesign.jpg",
+            "cimage": "assets/images/courses/Uiuxpic.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                " 8.5 hours on-demand video",
+                "2 articles",
+                "16 downloadable resources",
+                "Full lifetime access",
+                "Access on mobile and Laptop",
+                "Course Completion Certificate"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "Ui/Ux design  Pattern : ",
+                "unit1": [
+                    "Introduction to UI/UX Design",
+                    "Understanding User Needs and Requirements",
+                    "User Research Methods",
+                    "Wireframing and Prototyping"
+                ],
+                "heading1": "",
+                "unit2": [
+                    "Visual Design Principles",
+                    "Interaction Design",
+                    "Usability Testing",
+                    "Design Thinking Process"
+                ],
+                "heading2": "",
+                "unit3": [
+                    "Responsive Design",
+                    "Mobile App Design",
+                    "Web Design Best Practices",
+                    "Portfolio Development"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "React Full Stack Development ",
+            "bannerContent": "If you are planing to set you career as a React Full Stack Development Course , then you are at the right place. Visible Campus is considered to be one of the Best React Full Stack Development Course Training institute in Bangalore India.",
+            "discription": [
+                "Welcome to the world of React Full Stack Development! In this comprehensive guide, we'll take you on a journey from frontend to backend, equipping you with the skills and knowledge needed to excel in this dynamic field. With hands-on projects and guidance from seasoned experts, you'll unlock your potential and thrive in the exciting realm of technology.",
+                "Learn how to develop web applications from frontend to backend."
+            ],
+            "requirements": "Minimum criteria for Full Stack Web Developer Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/html5.png",
+                "assets/images/courses/css3.png",
+                "assets/images/courses/bootstrap.png",
+                "assets/images/courses/javascript.png",
+                "assets/images/courses/jquery.png",
+                "assets/images/courses/react.png",
+                "assets/images/courses/node-js.png",
+                "assets/images/courses/tailwind-css.png",
+                "assets/images/courses/mongodb.png",
+                "assets/images/courses/git.png",
+                "assets/images/courses/Python-logo.png"
+            ],
+            "banner": "assets/images/courses/FullStack1.jpg",
+            "cimage": "assets/images/courses/Fullstack-mainpage.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "85 hours of on-demand video content",
+                "20 articles",
+                "160 downloadable resources",
+                "Full lifetime access",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "Frontend Development",
+                "unit1": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "React.js",
+                    "Bootstrap"
+                ],
+                "heading1": "Backend Development",
+                "unit2": [
+                    "Node.js",
+                    "Express.js",
+                    "Python",
+                    "Django",
+                    "Ruby",
+                    "Rails"
+                ],
+                "heading2": "Databases and Additional Topics",
+                "unit3": [
+                    "MongoDB",
+                    "MySQL",
+                    "PostgreSQL",
+                    "Git",
+                    "GitHub",
+                    "Continuous Integration/Continuous Deployment (CI/CD)",
+                    "Docker",
+                    "Kubernetes",
+                    "AWS",
+                    "Authentication & Authorization",
+                    "Web Security",
+                    "Testing (Unit, Integration, E2E)",
+                    "RESTful API Design",
+                    "Microservices Architecture"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Front-End Devlopment",
+            "bannerContent": "If you are planing to set you career as a Front-End Devlopment Course , then you are at the right place. Visible Campus is considered to be one of the Best Front-End Devlopment Course Training institute in Bangalore India.",
+            "discription": [
+                "Gain proficiency in the dynamic field of front-end development with our immersive hands-on projects, guided by seasoned experts. Elevate your career opportunities today, as front-end developers remain in high demand and enjoy competitive salaries in the 21st-century job market. Unlock your potential and thrive in this exciting realm of technology as you learn to craft engaging and interactive user experiences from design to implementation.",
+                "Learn how to develop web applications from frontend to backend."
+            ],
+            "requirements": "Minimum criteria for Full Stack Web Developer Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/html5.png",
+                "assets/images/courses/css3.png",
+                "assets/images/courses/bootstrap.png",
+                "assets/images/courses/javascript.png",
+                "assets/images/courses/jquery.png",
+                "assets/images/courses/react.png",
+                "assets/images/courses/node-js.png",
+                "assets/images/courses/tailwind-css.png",
+                "assets/images/courses/mongodb.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/Frontend1.jpg",
+            "cimage": "assets/images/courses/Frontend2.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "80 hours of on-demand video content",
+                "20 articles",
+                "160 downloadable resources",
+                "Full lifetime access",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "HTML",
+                    "CSS3",
+                    "BootStrap"
+                ],
+                "unit1": [
+                    "Learn the structure and semantics of HTML elements.",
+                    "Understand how to create forms, tables, and other essential HTML elements.",
+                    "Learn about accessibility and best practices for writing semantic HTML.",
+                    "Learn CSS selectors, properties, and values.",
+                    "Understand CSS layout techniques like Flexbox and Grid.",
+                    "Explore CSS frameworks like Bootstrap or Tailwind CSS.",
+                    "Learn about responsive design and media queries."
+                ],
+                "heading1": "JavaScript",
+                "unit2": [
+                    "Introduction to JavaScript",
+                    "Asynchronous JavaScript",
+                    "Functions and Scope",
+                    "Arrays and Objects",
+                    "Error Handling and Debugging",
+                    "AJAX and Fetch API",
+                    "Introduction to JavaScript Frameworks",
+                    "Master the basics of JavaScript including variables, data types, control flow, and functions.",
+                    "Learn DOM manipulation to interact with HTML elements dynamically.",
+                    "Understand asynchronous JavaScript and promises.",
+                    "Learn modern JavaScript features (ES6+)."
+                ],
+                "heading2": "React JS and Additional Topics",
+                "unit3": [
+                    "What is React?",
+                    "Understanding Single Page Applications (SPA)",
+                    "Setting Up the Development Environment",
+                    "Introduction to JSX",
+                    "Functional Components",
+                    "React Hooks Basics",
+                    "Advanced React",
+                    "Introduction to Redux",
+                    "Advanced Redux",
+                    "Real-world Application Development",
+                    "MongoDB",
+                    "MySQL",
+                    "Git",
+                    "GitHub"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Java With SpringBoot",
+            "bannerContent": "If you are planing to set you career as a Java With SpringBoot Course , then you are at the right place. Visible Campus is considered to be one of the Best Java With Spring Boot Course Training institute in Bangalore India.",
+            "discription": [
+                "Are you ready to elevate your Java programming skills to the next level? Join us on an exciting journey into the world of Java development with Spring Boot! Whether you're a beginner looking to build a solid foundation or an experienced developer seeking to enhance your expertise, this course is designed to empower you with the knowledge and skills you need to succeed."
+            ],
+            "requirements": "Minimum criteria for Java With SpringBoot Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/LogoJava.jpg",
+                "assets/images/courses/spring.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/Java1.jpg",
+            "cimage": "assets/images/courses/Java2.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "75 hours of on-demand video content",
+                "18 articles",
+                "120 downloadable resources",
+                "Full lifetime access",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "Core-java"
+                ],
+                "unit1": [
+                    "Introduction to Java Programming Language",
+                    "Object-Oriented Programming Concepts",
+                    "Exception Handling",
+                    "Collections Framework",
+                    "Java I/O (Input/Output)",
+                    "Multithreading",
+                    "Generics and Annotations",
+                    "Java Database Connectivity (JDBC)",
+                    "Introduction to GUI Programming with Swing/AWT",
+                    "Introduction to JavaFX (Optional)"
+                ],
+                "heading1": "Java-Topics",
+                "unit2": [
+                    "Basic syntax and structure of Java programs",
+                    "Data types, variables, and operators",
+                    "Control flow statements: if-else, switch, loops",
+                    "Classes and objects",
+                    "Encapsulation, inheritance, and polymorphism",
+                    "Abstraction and interfaces",
+                    "Handling exceptions using try-catch blocks",
+                    "Checked and unchecked exceptions",
+                    "Usage of the 'finally' block",
+                    "ArrayList, LinkedList, HashMap, etc.",
+                    "Iteration techniques using iterators and enhanced for loops",
+                    "Sorting and searching algorithms",
+                    "File handling with FileInputStream, FileOutputStream, etc.",
+                    "Serialization and deserialization of objects",
+                    "Advanced I/O operations using java.nio package",
+                    "Creating and managing threads",
+                    "Synchronization techniques",
+                    "Thread communication",
+                    "Parameterized classes and methods using generics",
+                    "Predefined annotations: @Override, @Deprecated, @SuppressWarnings",
+                    "Custom annotation creation and usage",
+                    "Connecting Java applications with databases",
+                    "Executing SQL queries using JDBC",
+                    "Interfaces: ResultSet, PreparedStatement, Connection"
+                ],
+                "heading2": "SpringBoot and Servlet",
+                "unit3": [
+                    "Introduction to Spring Boot",
+                    "Spring Boot Starter",
+                    "Autoconfiguration",
+                    "Spring Boot CLI",
+                    "Introduction to Servlets",
+                    "Servlet Lifecycle",
+                    "Servlet API",
+                    "HttpServletRequest and HttpServletResponse",
+                    "Servlet Mapping",
+                    "Servlet Filters",
+                    "MySQL and NoSql"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "DataBase-MySQL",
+            "bannerContent": "If you are planing to set you career as a DataBase-MySQL Course , then you are at the right place. Visible Campus is considered to be one of the Best DataBase-MySQL Course Training institute in Bangalore India.",
+            "discription": [
+                "Master the art of MySQL database management with this comprehensive course. From fundamental concepts to advanced techniques, this course covers everything you need to know to become proficient in MySQL.",
+                "Are you ready to dive into the fascinating world of databases and revolutionize the way you handle data? Join us on an exhilarating journey as we explore the fundamentals and intricacies of MySQL database management. Whether you're an aspiring data engineer, a seasoned developer, or simply curious about databases, this course is your gateway to mastering the art of data management with MySQL"
+            ],
+            "requirements": "Minimum criteria for DataBase-MySQL Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/MysqLogo.png",
+                "assets/images/courses/mongodb.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/Database1.jpg",
+            "cimage": "assets/images/courses/Database2.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "60 hours of on-demand video content",
+                "12 articles",
+                "80 downloadable resources",
+                "Full lifetime access",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "Introduction to Databases and MySQL"
+                ],
+                "unit1": [
+                    "Understanding databases and their importance",
+                    "Introduction to MySQL",
+                    "Installation and configuration of MySQL Server",
+                    "Getting started with MySQL Workbench",
+                    "Basic SQL syntax",
+                    "Data types in MySQL",
+                    "CRUD operations (Create, Read, Update, Delete)",
+                    "Querying data with SELECT statement",
+                    "Understanding database design principles",
+                    "Entity-Relationship (ER) modeling",
+                    "Normalization techniques (1NF, 2NF, 3NF)",
+                    "Creating tables and defining relationships"
+                ],
+                "heading1": [
+                    "Advanced SQL Queries",
+                    "Data Manipulation and Transactions"
+                ],
+                "unit2": [
+                    "Joins and subqueries",
+                    "Aggregation functions (COUNT, SUM, AVG, etc.)",
+                    "Conditional statements (IF, CASE)",
+                    "Working with views and stored procedures",
+                    "Inserting, updating, and deleting data",
+                    "Transactions and ACID properties",
+                    "Locking mechanisms",
+                    "Error handling and rollback",
+                    "Understanding indexing and its importance",
+                    "Creating and managing indexes",
+                    "Query optimization techniques",
+                    "Analyzing query execution plans"
+                ],
+                "heading2": [
+                    "Security and User Management",
+                    "Real-World Applications"
+                ],
+                "unit3": [
+                    "User authentication and authorization",
+                    "Granting and revoking privileges",
+                    "Securing MySQL server",
+                    "Database backup and recovery",
+                    "Designing and implementing database schemas",
+                    "Optimizing database performance",
+                    "Handling large datasets",
+                    "Deploying MySQL in production environments"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Software Testing & Automation Course",
+            "bannerContent": "If you are planing to set you career as a Software Testing & Automation Course , then you are at the right place. Visible Campus is considered to be one of the Best Software Testing & Automation Course Training institute in Bangalore India.",
+            "discription": [
+                "Are you ready to embark on a journey into the realm of software quality assurance? Join us in this comprehensive course where we explore the fundamentals of software testing and delve into the world of automation. Whether you're a beginner looking to kickstart your career in quality assurance or a seasoned professional aiming to enhance your skills, this course is designed to equip you with the knowledge and tools needed to excel in the field of software testing and automation."
+            ],
+            "requirements": "Minimum criteria for Software Testing & Automation Engineer Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/Selenium_Logo.png",
+                "assets/images/courses/cypress_logo_social.png",
+                "assets/images/courses/Mocha_logoTesting.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/Testing2.jpg",
+            "cimage": "assets/images/courses/Testing1.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "80 hours of on-demand video content",
+                "15 articles",
+                "140 downloadable resources",
+                "Full lifetime access",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "Core-Java "
+                ],
+                "unit1": [
+                    "Introduction to Java Programming Language",
+                    "Object-Oriented Programming Concepts",
+                    "Exception Handling",
+                    "Java I/O (Input/Output)",
+                    "Multithreading",
+                    "Oops concept",
+                    "Constructor",
+                    "Method overriding",
+                    "Implementing Inheritance",
+                    "Dynamic method dispatch",
+                    "Abstraction",
+                    "Exception Handling"
+                ],
+                "heading1": [
+                    "Automation Testing - Selenium"
+                ],
+                "unit2": [
+                    "Selenium",
+                    "maven projects",
+                    "Github integration with Selenium-Jenkins",
+                    "CI-CD tools",
+                    "Jenkins",
+                    "Abstraction",
+                    "Fundamentals of Web Browser",
+                    "Basic of Networking",
+                    "Git"
+                ],
+                "heading2": [
+                    "Backend Testing",
+                    "Automation Testing - Cypress",
+                    "Mobile Testing"
+                ],
+                "unit3": [
+                    "Introduction to API",
+                    "REST vs. Web Services",
+                    "API Testing using POSTMAN with Endpoints",
+                    "Data Driven Testing using POSTMAN",
+                    "Introduction to Rest Assured",
+                    "Maven dependencies",
+                    "Mobile Testing with the hybrid app",
+                    "Mobile Testing with Javascript",
+                    "Performance & Security Testing",
+                    "Performance Testing with JMeter",
+                    "Security testing with Burp Suite",
+                    "Basic of JavaScript",
+                    "Cypress",
+                    "BDD Cucumber with Mocha",
+                    "DB integration using Cypress",
+                    "Jenkins",
+                    "jQuery",
+                    "Cypress command line"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Data Science Level 1",
+            "bannerContent": "If you are planing to set you career as a Data Science Course , then you are at the right place. Visible Campus is considered to be one of the Best Data Science Course Training institute in Bangalore India.",
+            "discription": [
+                "Unlock the Potential of Data Science: Level 1",
+                "Are you ready to embark on an exciting journey into the world of data science? Welcome to Level 1 of our comprehensive Data Science course, where you'll gain the foundational knowledge and practical skills needed to kickstart your career in this dynamic field. Whether you're a beginner eager to explore the possibilities of data or a professional looking to expand your skill set, this course is designed to empower you with the essential tools and techniques of data science"
+            ],
+            "requirements": "Minimum criteria for Data Science Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/DataScienceLogo.png",
+                "assets/images/courses/MysqLogo.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/DataScience2.jpg",
+            "cimage": "assets/images/courses/DataScience1.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "60 hours of on-demand video content",
+                "12 articles",
+                "80 downloadable resources",
+                "Full lifetime access",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "Data Science"
+                ],
+                "unit1": [
+                    "Introduction to Data Science",
+                    "Statistics for Data Science",
+                    "Data Wrangling and Preprocessing",
+                    "Exploratory Data Analysis (EDA)",
+                    "Machine Learning Fundamentals",
+                    "Regression Analysis"
+                ],
+                "heading1": [
+                    ""
+                ],
+                "unit2": [
+                    "Classification Algorithms",
+                    "Classification Algorithms",
+                    "Clustering Algorithms",
+                    "Dimensionality Reduction",
+                    "Introduction to Natural Language Processing (NLP)",
+                    "Capstone Project",
+                    "Conclusion and Next Steps"
+                ],
+                "heading2": [
+                    "Aditional Topics"
+                ],
+                "unit3": [
+                    "Git",
+                    "MySQL NoSQL"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Data Science and AI",
+            "bannerContent": "If you are planing to set you career as a Data Science and AI Course , then you are at the right place. Visible Campus is considered to be one of the Best Data Science and AI Course Training institute in Bangalore India.",
+            "discription": [
+                "Embark on an Enthralling Journey into Data Science and Artificial Intelligence",
+                "Are you ready to unlock the boundless potential of data-driven insights and intelligent decision-making? Welcome to our captivating course on Data Science and Artificial Intelligence (AI), where innovation meets opportunity, and possibilities are limitless. Whether you're a seasoned professional seeking to elevate your skills or an aspiring enthusiast eager to delve into the world of data and AI, this course is meticulously crafted to empower you with the knowledge, tools, and expertise to thrive in the rapidly evolving landscape of data science and AI."
+            ],
+            "requirements": "Minimum criteria for Data Science and AI Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/DataScienceLogo.png",
+                "assets/images/courses/AILogo.jpg",
+                "assets/images/courses/MysqLogo.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/DataScience2.jpg",
+            "cimage": "assets/images/courses/Datascience3.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "85 hours of on-demand video content",
+                "20 articles",
+                "160 downloadable resources",
+                "Full lifetime access",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "Data Science and AI"
+                ],
+                "unit1": [
+                    "Introduction to Data Science",
+                    "Foundations of Statistics for Data Science",
+                    "Data Wrangling and Preprocessing Techniques",
+                    "Exploratory Data Analysis (EDA)",
+                    "Machine Learning Fundamentals",
+                    "Supervised Learning",
+                    "Regression Analysis"
+                ],
+                "heading1": [
+                    "DataScience Artificial Intelligence"
+                ],
+                "unit2": [
+                    "Classification Algorithms",
+                    "Unsupervised Learning",
+                    "Clustering Algorithms",
+                    "Dimensionality Reduction",
+                    "Introduction to Natural Language Processing (NLP)",
+                    "Capstone Project",
+                    "Conclusion and Next Steps"
+                ],
+                "heading2": [
+                    "Aditional Topics"
+                ],
+                "unit3": [
+                    "Git",
+                    "MySQL NoSQL"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "PMP® Certification Training Course",
+            "bannerContent": "If you are planing to set you career as a PMP Training Course , then you are at the right place. Visible Campus is considered to be one of the Best PMP Training Course Training institute in Bangalore India.",
+            "discription": [
+                "Unlock Your Potential with PMP Training: Master the Art of Project Management",
+                "Are you ready to take your career to new heights and become a certified project management professional? Welcome to our comprehensive PMP training course, where you'll embark on a transformative journey to acquire the skills, knowledge, and certification you need to excel in the dynamic field of project management. Whether you're a seasoned project manager looking to validate your expertise or a budding professional eager to break into the field, this course is meticulously designed to empower you with the tools and confidence to succeed in managing projects of all sizes and complexities."
+            ],
+            "requirements": "Minimum criteria for PMP Training Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/PMPLogo1.png",
+                "assets/images/courses/PMPLogo2.jpg"
+            ],
+            "banner": "assets/images/courses/PMP1.jpg",
+            "cimage": "assets/images/courses/PMP2.png",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                " 35 Hrs Live Virtual Training",
+                "Delivered by PMI® Authorized Training Partner (PMI® - ATP)",
+                "PMI® Authorized Instructors",
+                "WhatsApp Group for Doubts Clarification",
+                "Application Assistance with PMP Application Template",
+                "Course Completion Certificate"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "PMP Traning-Details"
+                ],
+                "unit1": [
+                    "Introduction to Project Management",
+                    "Project Management Framework",
+                    "Project Lifecycle and Organization",
+                    "Project Integration Management",
+                    "Project Scope Management",
+                    "Project Schedule Management"
+                ],
+                "heading1": [
+                    "PMP Traning-Details"
+                ],
+                "unit2": [
+                    "Project Cost Management",
+                    "Project Quality Management",
+                    "Project Resource Management",
+                    "Project Communication Management",
+                    "Project Risk Management",
+                    "Project Procurement Management",
+                    "Project Stakeholder Management",
+                    "Professional and Social Responsibility"
+                ],
+                "heading2": [
+                    "Aditional Topics"
+                ],
+                "unit3": [
+                    "Git",
+                    "Exam Preparation",
+                    "Mock Tests",
+                    "Study Material Review"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Certified Scrum Master",
+            "bannerContent": "If you are planing to set you career as a Certified Scrum Master Course , then you are at the right place. Visible Campus is considered to be one of the Best Certified Scrum Master Course Training institute in Bangalore India.",
+            "discription": [
+                "Empower Your Agile Journey: Certified Scrum Master Course",
+                "Are you ready to embark on an exciting journey into the world of Agile project management? Welcome to our Certified Scrum Master (CSM) course, where you'll dive deep into the principles, practices, and mindset of Scrum to become a certified Scrum Master. Whether you're an intern eager to kickstart your career or a recent graduate looking to differentiate yourself in the competitive job market, this course is designed to equip you with the knowledge, skills, and certification you need to thrive in Agile environments and lead high-performing teams with confidence."
+            ],
+            "requirements": "Minimum criteria for Certified Scrum Master Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/ScrumLogo2.png",
+                "assets/images/courses/ScrumLogo1.jpg"
+            ],
+            "banner": "assets/images/courses/CSM1.jpg",
+            "cimage": "assets/images/courses/CSM2.png",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                " Delivered by CSTs",
+                "16 PDUs and SEUs",
+                "Role plays, Games, & Simulations",
+                "WhatsApp Group for Doubts Clarification",
+                "Scrum Alliance Exam Fee Included",
+                "Course Completion Certificate"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "The Certified Scrum Master (CSM) course syllabus"
+                ],
+                "unit1": [
+                    "Concepts of Agile",
+                    "Continuously improving the process",
+                    "Other frameworks and other Agile frameworks",
+                    "Applying Agile principles in IT Service Management",
+                    "Responsibilities and commitment",
+                    "Coaching the team and mediating"
+                ],
+                "heading1": [
+                    ""
+                ],
+                "unit2": [
+                    "Agile manifesto values",
+                    "Principles",
+                    "Scrum Foundation values",
+                    "Agile Principles and Mindset",
+                    "Agile Engineering Practices",
+                    "The Agile Manifesto",
+                    "Applying the Principles of Agile Manifesto"
+                ],
+                "heading2": [
+                    "The CSM learning objectives fall into the following categories:"
+                ],
+                "unit3": [
+                    "Lean, Agile, and Scrum",
+                    "Scrum Master Core Competencies",
+                    "Service to the Development Team",
+                    "Service to the Product Owner",
+                    "Service to the Organization"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Production Support",
+            "bannerContent": "Are you looking for an exciting and challenging career? If the answer is yes, then a career in production support may be for you. At Wiley Edge, we give you all the tools you need in order to progress as a production support analyst.",
+            "discription": [
+                "Embark on a Dynamic Career Path with Production Support Training",
+                "This course trains gradautes to become production support specialists working in financial settings. It includes an introduction of financial concepts as well as DevOps, SRE, and Disaster Recovery principles. Trainees in the course will learn how to use Linux in a production support environment, how to write programs using Python, and how to use SQL to retrieve and manage data in a database."
+            ],
+            "requirements": "Minimum criteria for Certified Scrum Master Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Bachelor’s degree in computer science or a related STEM subject (science, technology, engineering or math)",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/PSLogo2.jpg",
+                "assets/images/courses/PSGrafana_logo.png",
+                "assets/images/courses/git.png",
+                "assets/images/courses/DevopsLogo.png",
+                "assets/images/courses/MysqLogo.png",
+                "assets/images/courses/LinuxLogo.jpg"
+            ],
+            "banner": "assets/images/courses/PSupport2.jpg",
+            "cimage": "assets/images/courses/PSupport1.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "75 hours of on-demand video content",
+                "120 downloadable resources",
+                "Full lifetime access",
+                "Role plays, Games, & Simulations",
+                "WhatsApp Group for Doubts Clarification",
+                "Course Completion Certificate"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "Production Support-Details"
+                ],
+                "unit1": [
+                    "Introduction to Production Support",
+                    "Overview of Production Support Roles and Responsibilities",
+                    "Importance of Production Support in IT Operations",
+                    "Operating Systems Fundamentals",
+                    "Understanding Different Operating Systems (e.g., Windows, Linux, Unix)",
+                    "Navigating the Command Line Interface (CLI)",
+                    "Basic System Administration Tasks",
+                    "Networking Basics",
+                    "Introduction to Networking Concepts",
+                    "Understanding IP Addresses, Subnets, and Network Protocols",
+                    "Troubleshooting Network Connectivity Issues",
+                    "Database Fundamentals",
+                    "Introduction to Databases and Database Management Systems (DBMS)",
+                    "SQL Fundamentals",
+                    "Working with MySQL Server",
+                    "Introduction to ITIL Framework",
+                    "Overview of ITIL (Information Technology Infrastructure Library)",
+                    "Key Concepts of ITIL Service Operation",
+                    "Understanding Incident Management and Problem Management Processes"
+                ],
+                "heading1": [
+                    "Production Support-Details"
+                ],
+                "unit2": [
+                    "Introduction to Monitoring Tools",
+                    "Understanding the Importance of Monitoring in Production Support",
+                    "Introduction to Monitoring Tools (e.g., Prometheus, Grafana)",
+                    "Setting up Monitoring Alerts and Notifications",
+                    "Introduction to Version Control",
+                    "Understanding Version Control Concepts",
+                    "Using GIT for Version Control",
+                    "Working with Repositories, Branches, and Commits",
+                    "Continuous Integration and Continuous Deployment (CI/CD)",
+                    "Introduction to CI/CD Pipelines",
+                    "Using Jenkins for CI/CD Automation",
+                    "Automating Deployment Processes",
+                    "Introduction to Containerization and Orchestration",
+                    "Understanding Containerization Concepts (e.g., Docker)",
+                    "Introduction to Kubernetes for Container Orchestration",
+                    "Managing Containerized Applications with Kubernetes",
+                    "Agile Development Principles",
+                    "Overview of Agile Methodologies (e.g., Scrum, Kanban)",
+                    "Applying Agile Principles in Production Support",
+                    "Sprint Planning and Agile Ceremonies",
+                    "Troubleshooting and Problem-Solving Skills",
+                    "Developing Effective Troubleshooting Strategies",
+                    "Root Cause Analysis (RCA) Techniques",
+                    "Problem-Solving Skills in Production Support",
+                    "Documentation and Knowledge Management",
+                    "Importance of Documentation in Production Support",
+                    "Creating and Maintaining Support Documentation",
+                    "Knowledge Sharing and Collaboration Practices",
+                    "Customer Service and Communication Skills",
+                    "Effective Communication Techniques",
+                    "Managing Customer Expectations",
+                    "Providing Exceptional Customer Service in Production Support",
+                    "Capstone Project",
+                    "Real-World Scenario-Based Project",
+                    "Applying Skills and Knowledge in Production Support"
+                ],
+                "heading2": [
+                    "Trainees in this course will learn how to use the following tools:"
+                ],
+                "unit3": [
+                    "Linux",
+                    "Python and a related IDE, such as Jupyter Notebook",
+                    "SQL and MySQL Server",
+                    "GIT",
+                    "Jenkins",
+                    "Kubernetes",
+                    "Agile development principles",
+                    "Prometheus",
+                    "Grafana"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Angular with TypeScript",
+            "bannerContent": "If you are planing to set you career as a Angular with TypeScript , then you are at the right place. Visible Campus is considered to be one of the Best Angular with TypeScript Training institute in Bangalore India.",
+            "discription": [
+                "🚀 Master Angular & TypeScript: Unleash Your Potential! 🚀",
+                "Are you ready to elevate your skills and become a sought-after developer in today's competitive market? Look no further! Our comprehensive Angular and TypeScript course is meticulously crafted to empower students, recent graduates, and working professionals alike with the latest tools and techniques in web development."
+            ],
+            "requirements": "Minimum criteria for Certified Scrum Master Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Bachelor’s degree in computer science or a related STEM subject (science, technology, engineering or math)",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection",
+                "HTML,CSS,JavaScript"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/AngLOGO1.png",
+                "assets/images/courses/AngTypeScriptLogo.png",
+                "assets/images/courses/git.png",
+                "assets/images/courses/MysqLogo.png"
+            ],
+            "banner": "assets/images/courses/angular_banner.jpg",
+            "cimage": "assets/images/courses/angular_cimage.png",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                " Job Oriented Training with internship ",
+                "60 Hours of Training",
+                "UI/UX Concepts Included",
+                "100% Job Assistance",
+                "Classroom Training",
+                "Course Completion Certificate"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "Angular with TypeScript-Details"
+                ],
+                "unit1": [
+                    "Introduction to Angular and TypeScript",
+                    "Angular architecture overview",
+                    "TypeScript fundamentals",
+                    "Setting up development environment",
+                    "Building Your First Angular App",
+                    "Creating components, modules, and services",
+                    "Data binding and interpolation",
+                    "Angular CLI Mastery",
+                    "Angular CLI commands",
+                    "Code generation and scaffolding",
+                    "Testing and deployment"
+                ],
+                "heading1": [
+                    "Angular with TypeScript-Details"
+                ],
+                "unit2": [
+                    "Routing and Navigation",
+                    "Single-page application routing",
+                    "Navigating between views",
+                    "Passing data between routes",
+                    "Forms and Validations",
+                    "Reactive forms with FormBuilder",
+                    "Form validation and error handling",
+                    "HTTP Services and API Integration",
+                    "Angular HttpClient module",
+                    "RESTful API communication",
+                    "Asynchronous operations"
+                ],
+                "heading2": [
+                    "Angular with TypeScript-Details"
+                ],
+                "unit3": [
+                    "Advanced Angular Concepts",
+                    "Modules and lazy loading",
+                    "Angular animations",
+                    "Third-Party Integrations",
+                    "Angular Material and Bootstrap integration",
+                    "External API consumption",
+                    "Optimizing Performance and Scalability",
+                    "Performance analysis and optimizations",
+                    "Scaling Angular applications",
+                    "Best Practices and Design Patterns",
+                    "Clean code best practices",
+                    "MVC design pattern",
+                    "Observables",
+                    "Real-World Projects and Case Studies",
+                    "Hands-on projects",
+                    "Practical exercises",
+                    "Analyzing real-world Angular applications",
+                    "Final Project and Certification"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "title": "React With Node",
+            "bannerContent": "If you are planing to set you career as a React With Node, then you are at the right place. Visible Campus is considered to be one of the Best React With Node Training institute in Bangalore India.",
+            "discription": [
+                "🌟 Master React with Node: Unlock Your Full Potential! 🌟",
+                "Are you ready to embark on a transformative journey into the world of modern web development? Our dynamic React with Node course is designed to empower students, recent graduates, and working professionals alike with the essential skills to thrive in today's competitive tech landscape."
+            ],
+            "requirements": "Minimum criteria for React With Node Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Bachelor’s degree in computer science or a related STEM subject (science, technology, engineering or math)",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection",
+                "HTML,CSS,JavaScript"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/react.png",
+                "assets/images/courses/node-js.png",
+                "assets/images/courses/git.png",
+                "assets/images/courses/mongodb.png"
+            ],
+            "banner": "assets/images/courses/React1.jpg",
+            "cimage": "assets/images/courses/ReactWithNOde1.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                " Job Oriented Training with internship ",
+                "60 Hours of Training",
+                "UI/UX Concepts Included",
+                "100% Job Assistance",
+                "Classroom Training",
+                "Course Completion Certificate"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": [
+                    "React With Node Syllabus"
+                ],
+                "unit1": [
+                    "Introduction to React.js",
+                    "Understanding React components",
+                    "JSX syntax",
+                    "React state management",
+                    "React Hooks",
+                    "Exploring useState and useEffect",
+                    "Custom hooks",
+                    "Functional component development",
+                    "Node.js Fundamentals",
+                    "Introduction to Node.js",
+                    "Asynchronous JavaScript",
+                    "Node.js modules and npm",
+                    "Server-Side Development with Express.js",
+                    "Building RESTful APIs",
+                    "Handling CRUD operations",
+                    "MongoDB integration"
+                ],
+                "heading1": [
+                    "React With Node Syllabus"
+                ],
+                "unit2": [
+                    "Integrating React with Node.js",
+                    "Setting up the development environment",
+                    "Connecting frontend with backend",
+                    "Data communication between React and Node",
+                    "Authentication and Authorization",
+                    "User authentication strategies",
+                    "Implementing JWT",
+                    "Securing routes",
+                    "Real-Time Communication with WebSockets",
+                    "Deployment and DevOps",
+                    "Deploying React with Node applications",
+                    "Continuous integration and deployment",
+                    "DevOps best practices"
+                ],
+                "heading2": [
+                    "React With Node Syllabus"
+                ],
+                "unit3": [
+                    "Best Practices and Optimization",
+                    "Code organization in a full-stack project",
+                    "Performance optimization",
+                    "State management with Redux",
+                    "Project-Based Learning",
+                    "Collaborative project development",
+                    "Full-stack web application",
+                    "From conception to deployment",
+                    "Advanced Topics in React",
+                    "React Router",
+                    "Advanced state management",
+                    "Building reusable components",
+                    "Advanced Topics in Node.js",
+                    "Middleware functions",
+                    "Scaling Node.js applications",
+                    "Security considerations",
+                    "Testing in React and Node",
+                    "Unit testing and integration testing",
+                    "Testing libraries and frameworks",
+                    "Final Project and Certification"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Full Stack Java Developer Course",
+            "bannerContent": "If you are planing to set you career as a Full Stack Java Developer Course , then you are at the right place. Visible Campus is considered to be one of the Best Full Stack Java Developer Course Training institute in Bangalore India.",
+            "discription": [
+                "🚀 Launch Your Career with Java Full Stack Development! 🚀",
+                "Are you a graduate or student passionate about technology and eager to dive into the world of full stack development? Look no further! Our Java Full Stack Development course is your gateway to unlocking endless opportunities in the dynamic field of software engineering."
+            ],
+            "requirements": "Minimum criteria for Full Stack Java Developer Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/LogoJava.jpg",
+                "assets/images/courses/html5.png",
+                "assets/images/courses/css3.png",
+                "assets/images/courses/javascript.png",
+                "assets/images/courses/jquery.png",
+                "assets/images/courses/react.png",
+                "assets/images/courses/mongodb.png",
+                "assets/images/courses/MysqLogo.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/javafullstack2.png",
+            "cimage": "assets/images/courses/javaFullstack1.png",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "160 hours on-demand video",
+                "20 articles",
+                "50 downloadable resources",
+                "Full lifetime access",
+                "Access on mobile and laptop",
+                "Course Completion Certificate"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "Backend Development",
+                "unit1": [
+                    "Java Servlets",
+                    "JavaServer Pages (JSP)",
+                    "Spring Framework Basics",
+                    "Spring MVC",
+                    "Spring Boot",
+                    "Database Fundamentals",
+                    "Hibernate ORM",
+                    "RESTful Web Services",
+                    "Authentication and Authorization",
+                    "Deployment and DevOps"
+                ],
+                "heading1": "Frontend Development",
+                "unit2": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "React.js",
+                    "jQuery"
+                ],
+                "heading2": "Databases and Additional Topics",
+                "unit3": [
+                    "MySQL",
+                    "PostgreSQL",
+                    "Git",
+                    "GitHub",
+                    "Continuous Integration/Continuous Deployment (CI/CD)",
+                    "Docker",
+                    "Kubernetes",
+                    "AWS",
+                    "Web Security",
+                    "Testing (Unit, Integration, E2E)",
+                    "RESTful API Design",
+                    "Microservices Architecture"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Python Full Stack Development Course",
+            "bannerContent": "If you are planing to set you career as a Python Full Stack Development Course , then you are at the right place. Visible Campus is considered to be one of the Best Python Full Stack Development Course Training institute in Bangalore India.",
+            "discription": [
+                "🚀 Unlock Your Potential in Web Development with Python Full Stack Development! 🚀",
+                "Are you ready to embark on an exciting journey into the world of full stack web development? Our Python Full Stack Development Course is meticulously crafted to empower graduates and students with the skills and knowledge needed to thrive in today's digital landscape."
+            ],
+            "requirements": "Minimum criteria for Python Full Stack Development Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/Python-logo.png",
+                "assets/images/courses/html5.png",
+                "assets/images/courses/css3.png",
+                "assets/images/courses/javascript.png",
+                "assets/images/courses/react.png",
+                "assets/images/courses/mongodb.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/Datascience3.jpg",
+            "cimage": "assets/images/courses/Python2.png",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "85 hours of on-demand video content",
+                "20 articles",
+                "160 downloadable resources",
+                "Full lifetime access",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "Backend Development",
+                "unit1": [
+                    "Introduction to Python",
+                    "Python Syntax Basics",
+                    "Data Types and Variables",
+                    "Control Flow",
+                    "Python Functions and Modules",
+                    "Working with Packages and Libraries",
+                    "Error Handling"
+                ],
+                "heading1": "Frontend Development",
+                "unit2": [
+                    "HTML and CSS Basics",
+                    "JavaScript Fundamentals",
+                    "DOM Manipulation",
+                    "Event Handling",
+                    "Frontend Frameworks (e.g., React, Angular, Vue)",
+                    "Backend Development with Python (e.g., Django, Flask)",
+                    "Creating RESTful APIs"
+                ],
+                "heading2": "Databases and Additional Topics",
+                "unit3": [
+                    "Database Management (e.g., SQLite, MySQL, PostgreSQL)",
+                    "Object-Relational Mapping (ORM)",
+                    "Version Control with Git",
+                    "Deployment and DevOps",
+                    "Authentication and Authorization",
+                    "RESTful Web Services",
+                    "Advanced Topics in Full Stack Development",
+                    "Final Project Development"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        }
+    ]
+}
