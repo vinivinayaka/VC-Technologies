@@ -2475,6 +2475,8 @@ Featured Area
           box-shadow: 0 0 15px rgba(0, 0, 0, 0.06);
   padding: 24px 30px;
   margin-bottom: 30px;
+  position: relative;
+  z-index: 1;
 
 }
 
@@ -2523,11 +2525,11 @@ Featured Area
   transition: 0.9s;
 }
 
-.featured-card:hover::before {
+.featured-card:hover::before{
+  background-color: var(--mainColor);
   opacity: 1;
   width: 100%;
 }
-
 .featured-card:hover a i {
   background-color: var(--whiteColor);
   color: var(--mainColor);
