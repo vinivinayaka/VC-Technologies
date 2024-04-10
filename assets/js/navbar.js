@@ -113,7 +113,7 @@ var navbarTemp1 = `<!-- Pre Loader -->
                                     </li>
                                  
                                     <li class="nav-item">
-                                        <a href="courses-details.html?course=Java&id=4" class="nav-link">Java FullStack Development</a>
+                                        <a href="courses-details.html?course=Java&id=14" class="nav-link">Java FullStack Development</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="courses-details.html?course=Java&id=4" class="nav-link">Java With Spring Boot</a>
@@ -122,23 +122,23 @@ var navbarTemp1 = `<!-- Pre Loader -->
                                         <a href="courses-details.html?course=SoftwareTest&id=6" class="nav-link">Automated Testing</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="courses-details.html?course=DataLevel1&id=7" class="nav-link">Python Full Stack development</a>
+                                        <a href="courses-details.html?course=DataLevel1&id=15" class="nav-link">Python Full Stack development</a>
                                     </li>
                                     
                                     <li class="nav-item">
-                                        <a href="courses-details.html?course=PMP&id=9" class="nav-link">Azure Data Engineering</a>
+                                        <a href="courses-details.html?course=Azure&id=16" class="nav-link">Azure Data Engineering</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="courses-details.html?course=PMP&id=9" class="nav-link">Python and Machine learning</a>
+                                        <a href="courses-details.html?course=Python&id=17" class="nav-link">Python and Machine learning</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="courses-details.html?course=PMP&id=9" class="nav-link">Deep learning and NLP</a>
+                                        <a href="courses-details.html?course=DlNpl&id=18" class="nav-link">Deep learning and NLP</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="courses-details.html?course=PMP&id=9" class="nav-link">Business Analyst</a>
+                                        <a href="courses-details.html?course=BuAnalyst&id=19" class="nav-link">Business Analyst</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="courses-details.html?course=PMP&id=9" class="nav-link">Digital Marketing</a>
+                                        <a href="courses-details.html?course=DM&id=20" class="nav-link">Digital Marketing</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="courses-details.html?course=PMP&id=9" class="nav-link">PMP Training</a>

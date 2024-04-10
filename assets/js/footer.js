@@ -105,7 +105,7 @@ let footertemp = ` <footer class="footer-area">
                         <i class="ri-map-pin-2-fill"></i>
                         <div class="content">
                             <h4>Location:</h4>
-                            <span>3rd Floor Beta block,  Sigma Tech Park, Bangalore - 560066</span>
+                            <span>Varthur Main Road, Sigma soft tech park, gamma block 4 th floor, Bangalore - 560066</span>
                         </div>
                     </li>
                     <li>
@@ -131,7 +131,7 @@ let footertemp = ` <footer class="footer-area">
     <div class="container">
         <div class="copy-right-text text-center">
             <p>
-            Copyrights @${new Date().getFullYear()} <a>VISIBLE CAMPUS TECHNOLOGY SOLUTIONS PVT LTD</a> All Rights Reserved 
+            Copyrights @${new Date().getFullYear()} <a>VISIBLE CAMPUS TECHNOLOGY SOLUTIONS</a> All Rights Reserved 
             </p>
         </div>
     </div>

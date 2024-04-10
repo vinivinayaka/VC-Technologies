@@ -101,7 +101,7 @@
                 "Welcome to the world of React Full Stack Development! In this comprehensive guide, we'll take you on a journey from frontend to backend, equipping you with the skills and knowledge needed to excel in this dynamic field. With hands-on projects and guidance from seasoned experts, you'll unlock your potential and thrive in the exciting realm of technology.",
                 "Learn how to develop web applications from frontend to backend."
             ],
-            "requirements": "Minimum criteria for Full Stack Web Developer Course",
+            "requirements": "Minimum criteria for React Full Stack Web Developer Course",
             "reqList": [
                 "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
                 "Basic English - speaking, reading and writing",
@@ -211,13 +211,13 @@
         },
         {
             "id": 3,
-            "title": "Front-End Devlopment",
-            "bannerContent": "If you are planing to set you career as a Front-End Devlopment Course , then you are at the right place. Visible Campus is considered to be one of the Best Front-End Devlopment Course Training institute in Bangalore India.",
+            "title": "React Front-end Development",
+            "bannerContent": "If you are planing to set you career as a React Front-end Development Course , then you are at the right place. Visible Campus is considered to be one of the Best React Front-end Development Course Training institute in Bangalore India.",
             "discription": [
-                "Gain proficiency in the dynamic field of front-end development with our immersive hands-on projects, guided by seasoned experts. Elevate your career opportunities today, as front-end developers remain in high demand and enjoy competitive salaries in the 21st-century job market. Unlock your potential and thrive in this exciting realm of technology as you learn to craft engaging and interactive user experiences from design to implementation.",
-                "Learn how to develop web applications from frontend to backend."
+                "Master the art of React front-end development with our immersive hands-on projects, led by seasoned experts. Elevate your career prospects today, as React developers continue to be highly sought after, commanding competitive salaries in the modern job market. Unleash your potential and excel in this thrilling realm of technology as you discover how to craft captivating and interactive user experiences using React, from design conception to seamless implementation.",
+                "Explore the comprehensive process of developing web applications, covering both front-end and back-end aspects, and emerge as a proficient full-stack developer."
             ],
-            "requirements": "Minimum criteria for Full Stack Web Developer Course",
+            "requirements": "Minimum criteria for React Front-end Development Course",
             "reqList": [
                 "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
                 "Basic English - speaking, reading and writing",
@@ -1752,6 +1752,797 @@
                     "RESTful Web Services",
                     "Advanced Topics in Full Stack Development",
                     "Final Project Development"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Azure Data Engineering",
+            "bannerContent": "If you are planing to set you career as a Azure Data Engineering Course , then you are at the right place. Visible Campus is considered to be one of the Best Azure Data Engineering Course Training institute in Bangalore India.",
+            "discription": [
+                "Embark on a transformative journey into Azure Data Engineering, where you'll master the tools and techniques essential for designing, implementing, and managing data solutions on the Azure cloud platform. Dive deep into data pipelines, ETL processes, data warehousing, and real-time analytics, all while harnessing the power of Azure services like Azure Data Factory, Azure Databricks, and Azure Synapse Analytics. Gain hands-on experience in building scalable and reliable data solutions, preparing you for the challenges and opportunities of today's data-driven world.",
+                "This comprehensive masterclass covers everything you need to become proficient in Azure Data Engineering, from fundamentals to advanced techniques. Dive deep into Azure services and tools to build scalable and efficient data solutions."
+            ],
+            "requirements": "Minimum criteria for Azure Data Engineering Course",
+            "reqList": [
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection",
+                "Basic understanding of databases and SQL",
+                "Familiarity with cloud computing concepts",
+                "Data engineers, database administrators, software developers, and anyone interested in mastering Azure Data Engineering"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/html5.png",
+                "assets/images/courses/css3.png",
+                "assets/images/courses/MysqLogo.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/Datascience3.jpg",
+            "cimage": "assets/images/courses/azure_data_engineer.png",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "40 hours of on-demand video content",
+                "20 articles",
+                "120 downloadable resources",
+                "Full lifetime access",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "Azure Data Engineering",
+                "unit1": [
+                    "Introduction to Azure Data Engineering",
+                    "Overview of Azure Data Engineering",
+                    "Importance in modern data architecture",
+                    "Key concepts and terminology",
+                    "Azure Data Factory",
+                    "Creating data pipelines",
+                    "Data ingestion from various sources",
+                    "Data transformation and mapping",
+                    "Data loading to destination"
+                ],
+                "heading1": "Frontend Development",
+                "unit2": [
+                    "Azure Synapse Analytics",
+                    "Understanding data warehousing",
+                    "Setting up and managing data warehouses",
+                    "Optimizing performance",
+                    "Analyzing data with SQL queries",
+                    "Azure Databricks",
+                    "Real-time data processing",
+                    "Machine learning workflows",
+                    "Advanced analytics and insights",
+                    "Integration with Azure services",
+                    "Best Practices and Optimization",
+                    "Scalability and reliability",
+                    "Performance tuning",
+                    "Cost management strategies",
+                    "Security best practices"
+                ],
+                "heading2": "Databases and Additional Topics",
+                "unit3": [
+                    "Database Management (e.g., SQLite, MySQL, PostgreSQL)",
+                    "Version Control with Git",
+                    "Deployment and DevOps",
+                    "Authentication and Authorization",
+                    "RESTful Web Services",
+                    "Final Project Development"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Python and Machine learning",
+            "bannerContent": "If you are planing to set you career as a Python and Machine learning Course , then you are at the right place. Visible Campus is considered to be one of the Best Python and Machine learning Course Training institute in Bangalore India.",
+            "discription": [
+                "🚀 Unlock Your Potential in Machine Learning with Python! 🚀",
+                "Are you ready to embark on an exciting journey into the world of Machine Learning? Our Python-based Machine Learning Course is meticulously crafted to empower graduates and students with the skills and knowledge needed to thrive in today's data-driven landscape."
+            ],
+            "requirements": "Minimum criteria for Python and Machine learning Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/Python-logo.png",
+                "https://cdn-icons-png.flaticon.com/512/8637/8637099.png",
+                "assets/images/courses/html5.png",
+                "assets/images/courses/css3.png",
+                "assets/images/courses/MysqLogo.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "assets/images/courses/Datascience3.jpg",
+            "cimage": "assets/images/courses/PyML.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "85 hours of on-demand video content",
+                "25 articles",
+                "180 downloadable resources",
+                "Full lifetime access to course materials",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "Python Syllabus",
+                "unit1": [
+                    "Introduction to Python",
+                    "Python Syntax Basics",
+                    "Data Types and Variables",
+                    "Control Flow",
+                    "Python Functions and Modules",
+                    "Working with Packages and Libraries",
+                    "Error Handling",
+                    "Data Manipulation and Analysis with Python",
+                    "NumPy for numerical computing",
+                    "Pandas for data manipulation and analysis",
+                    "Data visualization with Matplotlib and Seaborn"
+                ],
+                "heading1": "Machine Learning",
+                "unit2": [
+                    "Introduction to Machine Learning",
+                    "Supervised Learning",
+                    "Unsupervised Learning",
+                    "Model Evaluation and Validation",
+                    "Machine Learning Algorithms",
+                    "Linear Regression",
+                    "Logistic Regression",
+                    "Decision Trees and Random Forests",
+                    "Support Vector Machines",
+                    "Clustering Algorithms",
+                    "Dimensionality Reduction",
+                    "Ensemble Learning",
+                    "Deep Learning with TensorFlow and Keras",
+                    "Introduction to Neural Networks",
+                    "Building and training neural networks with TensorFlow",
+                    "Deep Learning models with Keras",
+                    "Convolutional Neural Networks (CNNs)",
+                    "Recurrent Neural Networks (RNNs)"
+                ],
+                "heading2": "Applied Machine Learning Projects",
+                "unit3": [
+                    "Building a sentiment analysis model",
+                    "Image classification with CNNs",
+                    "Time series forecasting",
+                    "Natural Language Processing (NLP) projects",
+                    "HTML and CSS Basics",
+                    "Database Management",
+                    "Version Control with Git",
+                    "Final Project Development"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Deep Learning and Natural Language Processing (NLP)",
+            "bannerContent": "If you are planing to set you career as a Deep learning and NLP Course , then you are at the right place. Visible Campus is considered to be one of the Best Deep learning and NLP Course Training institute in Bangalore India.",
+            "discription": [
+                "🚀 Unlock Your Potential in Deep Learning and Natural Language Processing! 🚀",
+                "Dive into the cutting-edge fields of Deep Learning and Natural Language Processing (NLP) with our comprehensive course. Designed for both beginners and experienced programmers, this course will equip you with the skills and knowledge to tackle complex problems in artificial intelligence and language processing."
+            ],
+            "requirements": "Minimum criteria for Deep Learning and Natural Language Processing Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "https://nexocode.com/cdn-cgi/image/width=600,quality=75/images/AI-ML-DL-NLP-space.webp",
+                "assets/images/courses/MysqLogo.png",
+                "assets/images/courses/git.png"
+            ],
+            "banner": "https://datascientest.com/en/wp-content/uploads/sites/9/2023/09/nlp.jpg",
+            "cimage": "assets/images/courses/DlNpl.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "80 hours of on-demand video content",
+                "20 articles",
+                "160 downloadable resources",
+                "Full lifetime access to course materials",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "Deep learning and NLP",
+                "unit1": [
+                    "Foundations of Deep Learning",
+                    "Introduction to neural networks and deep learning",
+                    "Fundamentals of gradient descent and backpropagation",
+                    "Activation functions and loss functions",
+                    "Regularization techniques for preventing overfitting",
+                    "Deep Learning Architectures",
+                    "Convolutional Neural Networks (CNNs) for image processing",
+                    "Recurrent Neural Networks (RNNs) for sequential data",
+                    "Long Short-Term Memory (LSTM) networks",
+                    "Attention mechanisms in deep learning"
+                ],
+                "heading1": "Natural Language Processing (NLP)",
+                "unit2": [
+                    "Text preprocessing techniques",
+                    "Word embeddings and distributed representations",
+                    "Sequence-to-sequence models for translation tasks",
+                    "Named Entity Recognition (NER) and Part-of-Speech (POS) tagging",
+                    "Sentiment analysis and text classification",
+                    "Advanced Topics",
+                    "Transfer learning in NLP",
+                    "BERT and Transformer models",
+                    "Text generation with recurrent and transformer-based models",
+                    "Ethical considerations and biases in NLP applications"
+                ],
+                "heading2": "Hands-On Projects",
+                "unit3": [
+                    "Building a sentiment analysis model for social media data",
+                    "Text summarization using deep learning techniques",
+                    "Language translation with sequence-to-sequence models",
+                    "Creating a chatbot using NLP and conversational agents"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Business Analyst",
+            "bannerContent": "If you are planing to set you career as a Business Analyst Course , then you are at the right place. Visible Campus is considered to be one of the Best Business Analyst Course Training institute in Bangalore India.",
+            "discription": [
+                "🚀 Unlock Your Potential in Business Analyst! 🚀",
+                "Our Business Analyst Course is designed to equip individuals with the skills and knowledge necessary to excel in the dynamic field of business analysis. Whether you're a seasoned professional looking to enhance your skills or someone new to the field, this course will provide you with a comprehensive understanding of business analysis principles, techniques, and tools."
+            ],
+            "requirements": "Minimum criteria for Business Analyst Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "https://static.vecteezy.com/system/resources/thumbnails/009/982/314/small_2x/business-analyst-concept-color-illustration-vector.jpg",
+                "https://i.pinimg.com/originals/1b/db/8a/1bdb8ac897512116cbac58ffe7560d82.png"
+            ],
+            "banner": "assets/images/courses/Database1.jpg",
+            "cimage": "https://previews.123rf.com/images/kgtoh/kgtoh1107/kgtoh110700219/9914849-background-concept-illustration-of-analytics-business-analysis-international.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "80 hours of on-demand video content",
+                "20 articles",
+                "160 downloadable resources",
+                "Full lifetime access to course materials",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "Business Analyst Course",
+                "unit1": [
+                    "Introduction to Business Analysis",
+                    "Overview of business analysis and its importance in organizations",
+                    "Role and responsibilities of a business analyst",
+                    "Understanding business processes and requirements gathering techniques",
+                    "Data Analysis and Visualization",
+                    "Introduction to data analysis techniques",
+                    "Data collection, cleansing, and transformation",
+                    "Data visualization using tools like Excel, Tableau, or Power BI"
+                ],
+                "heading1": "Business Analysis Tools ",
+                "unit2": [
+                    "Business Analysis Tools and Techniques",
+                    "SWOT analysis",
+                    "Stakeholder analysis and management",
+                    "Requirements documentation and management",
+                    "Use case modeling and user story mapping",
+                    "Project Management for Business Analysts",
+                    "Introduction to project management methodologies (Agile, Waterfall, etc.)",
+                    "Scrum framework and Agile principles",
+                    "Managing project scope, schedule, and budget"
+                ],
+                "heading2": "Business Process",
+                "unit3": [
+                    "Business Process Improvement",
+                    "Identifying and analyzing business problems and opportunities",
+                    "Root cause analysis",
+                    "Business process modeling and optimization techniques",
+                    "Soft Skills for Business Analysts",
+                    "Communication and interpersonal skills",
+                    "Negotiation and conflict resolution",
+                    "Critical thinking and problem-solving abilities"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Digital Marketing",
+            "bannerContent": "If you are planing to set you career as a Digital Marketing Course , then you are at the right place. Visible Campus is considered to be one of the Best Digital Marketing Course Training institute in Bangalore India.",
+            "discription": [
+                "🚀 Unlock Your Potential in Digital Marketing! 🚀.Our Digital Marketing Course is meticulously crafted to provide participants with the skills and expertise required to thrive in today's fast-paced digital landscape. Whether you're an aspiring marketer, business owner, or professional looking to expand your skill set, this course offers a comprehensive exploration of digital marketing strategies, tools, and techniques.",
+                "With a focus on practical skills and industry insights, this course will empower you to navigate the complexities of digital marketing, analyze key metrics, and optimize campaigns for maximum impact. Whether you're aiming to launch a successful career in digital marketing or elevate your organization's online presence, this course is your pathway to success."
+            ],
+            "requirements": "Minimum criteria for Digital Marketing Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "https://img.freepik.com/premium-vector/digital-marketing-logo-design_626969-523.jpg",
+                "https://i.pinimg.com/originals/1b/db/8a/1bdb8ac897512116cbac58ffe7560d82.png"
+            ],
+            "banner": "assets/images/courses/Database1.jpg",
+            "cimage": "https://img.freepik.com/free-photo/digital-marketing-with-icons-business-people_53876-94833.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "80 hours of on-demand video content",
+                "20 articles",
+                "160 downloadable resources",
+                "Full lifetime access to course materials",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": " Introduction to Digital Marketing",
+                "unit1": [
+                    "Overview of digital marketing landscape",
+                    "Understanding digital marketing channels and platforms",
+                    "Role of digital marketing in modern business",
+                    "Learning WordPress",
+                    "Setting up a WordPress website",
+                    "Customizing WordPress themes and plugins",
+                    "Managing content with WordPress CMS",
+                    "Search Engine Optimization (SEO)",
+                    "On-page and off-page SEO techniques",
+                    "Keyword research and analysis",
+                    "SEO tools and analytics"
+                ],
+                "heading1": "Social Media Optimization & Marketing",
+                "unit2": [
+                    "Optimizing social media profiles",
+                    "Creating engaging social media content",
+                    "Strategies for social media marketing",
+                    "Google Analytics 4",
+                    "Introduction to Google Analytics 4",
+                    "Setting up Google Analytics",
+                    "Analyzing website traffic and user behavior",
+                    "Google Tag Manager (GTM)",
+                    "Understanding GTM and its benefits",
+                    "Implementing tags and triggers",
+                    "Tracking events and conversions"
+                ],
+                "heading2": "Content and YouTube Marketing",
+                "unit3": [
+                    "Creating a content strategy",
+                    "Producing high-quality content",
+                    "Content distribution and promotion",
+                    "Creating a YouTube channel",
+                    "Optimizing video content for search",
+                    "Promoting videos and growing subscribers",
+                    "App Store Optimization (ASO)",
+                    "Understanding ASO principles",
+                    "Optimizing app metadata",
+                    "Promoting apps on app stores",
+                    "Google My Business (GMB)",
+                    "Setting up and optimizing GMB listings",
+                    "Managing customer reviews",
+                    "Using GMB for local marketing"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "title": "AWS with Devops",
+            "bannerContent": "If you are planing to set you career as a AWS with Devops Course , then you are at the right place. Visible Campus is considered to be one of the Best AWS with Devops Course Training institute in Bangalore India.",
+            "discription": [
+                "🌟 Master AWS with Devops: Unlock Your Full Potential! 🌟",
+                "Embark on a transformative journey into the world of cloud computing and DevOps with our comprehensive AWS with DevOps Course. This course is designed to equip you with the skills and expertise needed to leverage Amazon Web Services (AWS) for building scalable, reliable, and secure cloud-based solutions, while integrating DevOps practices to streamline software development and deployment processes."
+            ],
+            "requirements": "Minimum criteria for AWS with Devops Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "Basic understanding of Programming,databases and SQL",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "assets/images/courses/html5.png",
+                "assets/images/courses/css3.png",
+                "assets/images/courses/MysqLogo.png",
+                "assets/images/courses/git.png",
+                "assets/images/courses/LinuxLogo.jpg",
+                "https://w7.pngwing.com/pngs/555/220/png-transparent-aws-hd-logo.png",
+                "assets/images/courses/DevopsLogo.png"
+            ],
+            "banner": "assets/images/courses/Database1.jpg",
+            "cimage": "https://www.shutterstock.com/image-illustration/2d-illustration-cloud-computing-concept-600nw-1458581246.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "85 hours of on-demand video content",
+                "25 articles",
+                "180 downloadable resources",
+                "Full lifetime access to course materials",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "Introduction to Cloud Computing and AWS",
+                "unit1": [
+                    "Understanding the fundamentals of cloud computing",
+                    "Overview of AWS services and architecture",
+                    "Getting started with AWS management console and CLI",
+                    "AWS Services and Solutions",
+                    "Compute services (EC2, Lambda, ECS)",
+                    "Storage services (S3, EBS, EFS)",
+                    "Networking services (VPC, Route 53, CloudFront)",
+                    "Database services (RDS, DynamoDB)",
+                    "Security and compliance on AWS",
+                    "Infrastructure as Code (IaC) with AWS CloudFormation",
+                    "Automating infrastructure provisioning with CloudFormation",
+                    "Creating and managing AWS resources using templates",
+                    "Versioning and managing infrastructure changes"
+                ],
+                "heading1": "DevOps Principles and Practices",
+                "unit2": [
+                    "Introduction to DevOps culture and principles",
+                    "Continuous Integration (CI) and Continuous Deployment (CD)",
+                    "Infrastructure automation with tools like Ansible, Terraform",
+                    "Containerization with Docker and container orchestration with Kubernetes",
+                    "CI/CD Pipelines on AWS",
+                    "Setting up CI/CD pipelines using AWS CodePipeline",
+                    "Automating build, test, and deployment workflows",
+                    "Integrating AWS services with third-party CI/CD tools"
+                ],
+                "heading2": "DevOps on Cloud",
+                "unit3": [
+                    "GIT – A Version controlling tool",
+                    "Jenkins",
+                    "Docker",
+                    "Kubernetes",
+                    "Ansible",
+                    "MySQL and NoSql"
+                ]
+            },
+            "course_syllabus": [
+                {
+                    "heading": "introduction",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 2",
+                            "preview": false,
+                            "duration": 20,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                },
+                {
+                    "heading": "Visual Code",
+                    "subtopics": [
+                        {
+                            "title": "sub topic data 22",
+                            "preview": true,
+                            "duration": 30,
+                            "assignments": 1
+                        },
+                        {
+                            "title": "sub topic data 12",
+                            "preview": false,
+                            "duration": 45,
+                            "assignments": 3
+                        }
+                    ],
+                    "isdemo": true
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "title": "LLMs with GenAI",
+            "bannerContent": "If you are planing to set you career as a LLMs with GenAI Course , then you are at the right place. Visible Campus is considered to be one of the Best LLMs with GenAI Course Training institute in Bangalore India.",
+            "discription": [
+                "🌟 Master LLMs with GenAI: Unlock Your Full Potential! 🌟",
+                "Embark on an innovative journey into the realm of Language Models (LLMs) and Generative Artificial Intelligence (GenAI) with our advanced course. This cutting-edge program is tailored for individuals eager to explore the forefront of AI research and development, specifically focusing on the intersection of language understanding and generative models."
+            ],
+            "requirements": "Minimum criteria for LLMs with GenAI Course",
+            "reqList": [
+                "Graduate Fresher Or Degree Holder, Age : 18 - 28 years",
+                "Basic English - speaking, reading and writing",
+                "A desktop or laptop with an uninterrupted service connection"
+            ],
+            "whatyouwilllearn": [
+                "https://nexocode.com/cdn-cgi/image/width=600,quality=75/images/AI-ML-DL-NLP-space.webp",
+                "https://i.pinimg.com/originals/1b/db/8a/1bdb8ac897512116cbac58ffe7560d82.png"
+            ],
+            "banner": "assets/images/courses/DataScience2.jpg",
+            "cimage": "assets/images/courses/Datascience3.jpg",
+            "category": "web",
+            "fees": "",
+            "finalFees": "15,000",
+            "courseDetailsList": [
+                "80 hours of on-demand video content",
+                "20 articles",
+                "160 downloadable resources",
+                "Full lifetime access to course materials",
+                "Accessible on mobile and laptop",
+                "Course completion certificate included"
+            ],
+            "assignmentList": [],
+            "coursesyllabus": {
+                "heading": "LLMs with GenAI",
+                "unit1": [
+                    "Foundations of Language Models",
+                    "Introduction to language modeling and natural language processing (NLP)",
+                    "Understanding the architecture of modern language models",
+                    "Exploration of pre-trained language models like GPT (Generative Pre-trained Transformer)",
+                    "Generative Artificial Intelligence",
+                    "Concepts and principles of generative AI",
+                    "Generative adversarial networks (GANs) and variational autoencoders (VAEs)",
+                    "Applications of generative models in image synthesis, text generation, and more"
+                ],
+                "heading1": "Applications of LLMs and GenAI",
+                "unit2": [
+                    "Natural language understanding (NLU) tasks such as sentiment analysis, named entity recognition, and text classification",
+                    "Text generation tasks including language translation, summarization, and dialogue generation",
+                    "Exploration of real-world use cases and case studies in various domains",
+                    "Transformers and Attention Mechanisms",
+                    "Deep dive into transformer architecture",
+                    "Understanding self-attention mechanisms",
+                    "Advanced transformer-based models like BERT (Bidirectional Encoder Representations from Transformers)"
+                ],
+                "heading2":  "Ethical and Societal Implications",
+                "unit3": [
+                    "Ethical considerations in AI development and deployment",
+        "Addressing bias and fairness in AI models",
+        "Understanding the societal impact of LLMs and generative AI",
+         "Building and fine-tuning language models",
+        "Training generative AI models for creative tasks",
+        "Developing applications leveraging LLMs and GenAI"
+
+
                 ]
             },
             "course_syllabus": [

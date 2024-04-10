@@ -179,10 +179,11 @@
     max-width: 100%;
   }
   .banner-img .top-content {
-    top: 20px;
+    top: 28px;
     left: auto;
     right: 0;
     padding: 8px;
+    height: 50px;
   }
   .banner-img .top-content i {
     width: 30px;
@@ -455,6 +456,7 @@
     margin-bottom: 0;
     -webkit-transition: 0.9s;
     transition: 0.9s;
+    font-size: 16px;
   }
   .featured-item {
     padding: 25px 20px 25px 80px;
