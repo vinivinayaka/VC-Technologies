@@ -16,20 +16,20 @@ let footertemp = ` <footer class="footer-area">
                 <ul class="social-link">
                     <li class="social-title">Follow Us:</li>
                     <li>
-                        <a href="https://www.facebook.com/" target="_blank">
-                            <i class="ri-facebook-fill"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://twitter.com/" target="_blank">
-                            <i class="ri-twitter-fill"></i>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="https://www.linkedin.com/company/visiblecampus/" target="_blank">
-                            <i class="ri-linkedin-fill"></i>
-                        </a>
-                    </li>
+                    <a href="https://www.facebook.com/profile.php?id=100092219697342" target="_blank">
+                        <i class="ri-facebook-fill"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/visiblecampus/" target="_blank">
+                        <i class="ri-instagram-fill"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/company/visiblecampus/" target="_blank">
+                        <i class="ri-linkedin-line"></i>
+                    </a>
+                </li>
                 </ul>
             </div>
         </div>

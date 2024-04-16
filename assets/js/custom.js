@@ -398,23 +398,34 @@
   });
 
   // Back To Top
-  $("body").append(
-    "<div class='go-top'><i class='ri-arrow-up-s-line'></i></div>"
-  );
-  $(window).on("scroll", function () {
-    var scrolled = $(window).scrollTop();
-    if (scrolled > 600) $(".go-top").addClass("active");
-    if (scrolled < 600) $(".go-top").removeClass("active");
-  });
-  $(".go-top").on("click", function () {
-    $("html, body").animate(
-      {
-        scrollTop: "0",
-      },
-      500
+  $(document).ready(function() {
+    $("body").append(
+      "<div class='go-top'><a href='https:/wa.me/+918884999188' target='_blank' class='whatsapp_float'><i class='fa-brands fa-whatsapp whatsapp-icon'></i></a></div> <div class='go-top'><i class='ri-arrow-up-s-line'></i></div>"
     );
+  
+    $(window).on("scroll", function() {
+      var scrolled = $(window).scrollTop();
+      if (scrolled > 600) {
+        $(".go-top, .whatsapp_float").addClass("active");
+      } else {
+        $(".go-top, .whatsapp_float").removeClass("active");
+      }
+    });
+  
+    $(".go-top").on("click", function() {
+      $("html, body").animate({
+        scrollTop: "0",
+      }, 500);
+    });
+  
+    $(".whatsapp_float").on("click", function() {
+      $("html, body").animate({
+        scrollTop: "0",
+      }, 500);
+    });
   });
 
+  
   // Preloader
   $(window).on("load", function () {
     var preLoder = $(".loader-wrapper");
@@ -720,4 +731,4 @@ script.src = '/assets/js/navbar.js';
 // Append the script element to the document body
 document.body.appendChild(script);
 
-//cards in a page
+//backend code here

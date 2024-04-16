@@ -40,13 +40,13 @@ var navbarTemp1 = `<!-- Pre Loader -->
 
                             <ul class="social-list">
                                 <li>
-                                    <a href="https://www.facebook.com/" target="_blank">
+                                    <a href="https://www.facebook.com/profile.php?id=100092219697342" target="_blank">
                                         <i class="ri-facebook-fill"></i>
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/" target="_blank">
-                                        <i class="ri-twitter-fill"></i>
+                                    <a href="https://www.instagram.com/visiblecampus/" target="_blank">
+                                        <i class="ri-instagram-fill"></i>
                                     </a>
                                 </li>
                                 <li>
