@@ -54,6 +54,11 @@ var navbarTemp1 = `<!-- Pre Loader -->
                                         <i class="ri-linkedin-line"></i>
                                     </a>
                                 </li>
+                                <li>
+                                   <a href='https:/wa.me/+918884999188' target="_blank">
+                                    <i class="ri-whatsapp-line"></i>
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>

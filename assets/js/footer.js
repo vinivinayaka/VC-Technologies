@@ -26,8 +26,13 @@ let footertemp = ` <footer class="footer-area">
                     </a>
                 </li>
                 <li>
-                    <a href="https://www.linkedin.com/company/visiblecampus/" target="_blank">
+                    <a href="https://www.linkedin.com/company/visiblecampus"  target="_blank">
                         <i class="ri-linkedin-line"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href='https:/wa.me/+918884999188' target="_blank">
+                        <i class="ri-whatsapp-line"></i>
                     </a>
                 </li>
                 </ul>

@@ -400,7 +400,7 @@
   // Back To Top
   $(document).ready(function() {
     $("body").append(
-      "<div class='go-top'><a href='https:/wa.me/+918884999188' target='_blank' class='whatsapp_float'><i class='fa-brands fa-whatsapp whatsapp-icon'></i></a></div> <div class='go-top'><i class='ri-arrow-up-s-line'></i></div>"
+      "<div class='go-top'><a href='https://api.whatsapp.com/send/?phone=%2B918884999188' target='_blank' class='whatsapp_float'><i class='fa-brands fa-whatsapp whatsapp-icon'></i></a></div> <div class='go-top'><i class='ri-arrow-up-s-line'></i></div>"
     );
   
     $(window).on("scroll", function() {
