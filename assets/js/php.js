@@ -20,10 +20,10 @@ function emailSend() {
         Host: "smtp.elasticemail.com",
         Username: "pihicika@clip.lat",
         Password: "E38E2136FE2C426285E1FBBF9BE25E6721A2",
-        To: "vinayakaa20@gmail.com",             
+        To: "vcampustech@gmail.com",             
         Subject: "New Enrollment Form Submission",
         Body: body,
-        From: "vinayakaa20@gmail.com"
+        From: "vcampustech@gmail.com"
     }).then(
         message => {
             alert("Form submitted. Thank you!");

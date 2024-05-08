@@ -59,6 +59,11 @@ var navbarTemp1 = `<!-- Pre Loader -->
                                     <i class="ri-whatsapp-line"></i>
                                     </a>
                                 </li>
+                                <li>
+                                   <a href='https://t.me/visiblecampus_jobseekers' target="_blank">
+                                    <i class="ri-telegram-line"></i>
+                                    </a>
+                                </li>
                             </ul>
                         </div>
                     </div>

@@ -14,7 +14,7 @@ let footertemp = ` <footer class="footer-area">
 
                 </p>
                 <ul class="social-link">
-                    <li class="social-title">Follow Us:</li>
+                    <p class="social-title">Follow Us:</p>
                     <li>
                     <a href="https://www.facebook.com/profile.php?id=100092219697342" target="_blank">
                         <i class="ri-facebook-fill"></i>
@@ -33,6 +33,11 @@ let footertemp = ` <footer class="footer-area">
                 <li>
                     <a href='https:/wa.me/+918884999188' target="_blank">
                         <i class="ri-whatsapp-line"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href='https://t.me/visiblecampus_jobseekers' target="_blank">
+                        <i class="ri-telegram-line"></i>
                     </a>
                 </li>
                 </ul>
