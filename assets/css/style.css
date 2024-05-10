@@ -2057,10 +2057,11 @@ Inner Banner Area
 ===================================*/
 .inner-banner {
   background-size: cover;
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
   position: relative;
   z-index: 1;
+  
 }
 
 .inner-banner::before {
@@ -2072,8 +2073,8 @@ Inner Banner Area
   left: 0;
   width: 100%;
   height: 100%;
-  background: #000000c7;
-  opacity: 0.9;
+  background: #00000070;
+  opacity: 1.0;
 }
 
 .inner-banner .inner-title {
@@ -7995,6 +7996,8 @@ Preloader CSS
 
 .white{
   color: white;
+  /* font-weight: bold; */
+  font-family: 'Roboto',sans-serif;
 }
 
 .disabled{

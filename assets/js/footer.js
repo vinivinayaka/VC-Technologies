@@ -31,7 +31,7 @@ let footertemp = ` <footer class="footer-area">
                     </a>
                 </li>
                 <li>
-                    <a href='https:/wa.me/+918884999188' target="_blank">
+                    <a href='https://api.whatsapp.com/send/?phone=%2B918884999188' target="_blank">
                         <i class="ri-whatsapp-line"></i>
                     </a>
                 </li>
